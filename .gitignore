@@ -10,7 +10,7 @@ build/
 out/
 bin/
 obj/
-
+ui-guidelines/
 # Environment Files
 .env
 .env.local
